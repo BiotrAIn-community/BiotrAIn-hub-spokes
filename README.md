@@ -2,10 +2,12 @@
 
 # BiotrAIn course: Concepts, approaches and applications of Artificial Intelligence in bioscience
 
-### HUB&SPOKES Course: June 16-20, 2025 - San José, Costa Rica
+### Hub&Spokes Course: April 20-24, 2026 - Costa Rica/Argentina/Brazil/Chile/México/Colombia
 
 ### Background
-A group of collaborators from CABANAnet and EMBL’s European Bioinformatics Institute (EMBL-EBI) have joined to address some disparities in bioscience-related AI through training. The BiotrAIn project, supported by the Chan Zuckerberg Initiative, aims to create a fundamental and sustainable curriculum on artificial intelligence (AI) for bioscientists from Latin America, including data science basics, and leading towards the use and application of AI to better solve biological and biomedical problems.
+A group of collaborators from Universidad de Costa Rica, CABANAnet and EMBL’s European Bioinformatics Institute (EMBL-EBI) have joined to address some disparities in bioscience-related AI through training. Now, in the second phase, "Hub&Spokes", several academic institutions across Latin America have joined us to continue extending the community and triggering AI skills. 
+
+The BiotrAIn project, supported by the Chan Zuckerberg Initiative, aims to create a fundamental and sustainable curriculum on artificial intelligence (AI) for bioscientists from Latin America, including data science basics, and leading towards the use and application of AI to better solve biological and biomedical problems.
 
 Our intended impact is that Latin America is able to participate as an equal partner in globally important bioscience projects that use or develop artificial intelligence methods.
 
