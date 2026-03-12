@@ -2,7 +2,7 @@
 
 # BiotrAIn course: Concepts, approaches and applications of Artificial Intelligence in bioscience
 
-### Pilot Course: June 16-20, 2025 - San José, Costa Rica
+### Hub&Spokes Course: April 20-24, 2026 - Costa Rica/Argentina/Brazil/Chile/México/Colombia
 
 ## Module 4.2: Deep Learning: application to protein structure prediction with Alphafold.
 
