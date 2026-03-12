@@ -4,7 +4,7 @@
 
 ### Hub&Spokes Course: April 20-24, 2026 - Costa Rica/Argentina/Brazil/Chile/México/Colombia
 
-## Module 4: Deep Learning applications
+## Module 4.1: Deep Learning 
 
 ### Collaborators
 Tulio Campos, Oswaldo Cruz Foundation (Fiocruz), Brazil
