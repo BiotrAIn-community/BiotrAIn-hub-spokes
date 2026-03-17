@@ -40,6 +40,8 @@ By the end of this course, participants will be able to:
 
 [All-datasets](https://github.com/biotrain-latam/BiotrAIn-pilot-course/blob/main/Module%203%20Classification/Classification-alldata.zip)
 
+[Tutorial in R: Concepts of classification - EMPTY-for-students](https://colab.research.google.com/drive/1_xOul2GPcESxzbp3UXlEHULfrbZXQEyE?usp=sharing)
+
 [Tutorial in R: Concepts of classification](https://colab.research.google.com/drive/1_jbMf1k8sOaavtGWsDnUYiVK89kPcrHe?usp=sharing)
 
 * [Data Perturbome](https://github.com/biotrain-latam/BiotrAIn-pilot-course/blob/main/Module%203%20Classification/perturbome-data.csv)
