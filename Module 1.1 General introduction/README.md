@@ -12,7 +12,7 @@ Carla Valeria Filippi, Faculty of Agronomy, University of the Republic, Uruguay
 
 Jose Arturo Molina Mora - University of Costa Rica, Co-Investigator, lead for LATAM, Costa Rica
 
-### Secondee
+### Secondee 
 
 Daniel Céspedes Tenorio, Faculty of Myrobiology, University of Costa Rica, Costa Rica
 
