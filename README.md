@@ -2,7 +2,8 @@
 
 # BiotrAIn course: Concepts, approaches and applications of Artificial Intelligence in bioscience
 
-### Hub&Spokes Course: April 20-24, 2026 - Costa Rica/Argentina/Brazil/Chile/México/Colombia
+### Hub&Spokes Course: April 20-24, 2026 
+### Costa Rica/Argentina/Brazil/Chile/México/Colombia
 
 ### Background
 A group of collaborators from Universidad de Costa Rica, CABANAnet and EMBL’s European Bioinformatics Institute (EMBL-EBI) have joined to address some disparities in bioscience-related AI through training. Now, in the second phase, "Hub&Spokes", several academic institutions across Latin America have joined us to continue extending the community and triggering AI skills. 
