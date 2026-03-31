@@ -40,7 +40,7 @@ Adrián Turjanski, Facultad de ciencias exactas y natirales, Universidad de Buen
 
 Tulio Campos, Oswaldo Cruz Foundation (Fiocruz), Brazil
 
-
+![image](https://github.com/user-attachments/assets/c8f408d4-3f11-4c67-a3b6-7c4442f410e3)
 
 ## Learning outcomes
 By the end of this course, participants will be able to apply foundational concepts of artificial intelligence and machine learning to biological data, including situations in the LATAM context, leveraging their existing data analysis skills to:
