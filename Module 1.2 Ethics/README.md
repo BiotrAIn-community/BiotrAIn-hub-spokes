@@ -14,7 +14,7 @@ You will be introduced to real-world case studies, interdisciplinary debates, an
 
 Cath Brooksbank, Head of Training, EMBL’s European Bioinformatics Institute, UK
 
-Alex Bateman, Senior Team Leader, Protein Sequence Resources, EMBL’s European Bioinformatics Institute, UK
+Maria Fernanda Ribeiro Dias, Professora visitante do PPGMCF da Universidade Federal do Rio de Janeiro, Brazil
 
 Helder Nakaya, Principal Investigator, Computational System Biology Laboratory, Universidade de São Paulo, Brazil
 
@@ -46,7 +46,7 @@ d) Summarise steps to use AI responsibly
    
 ## Materials and tutorials
 
-[Welcome and Introduction – Module Overview](https://docs.google.com/presentation/d/1GrRKQgYxD_doi1OC3OIXdZ9LHJ6lwAiK/edit?slide=id.p1#slide=id.p1)
+[Welcome and Introduction]([https://docs.google.com/presentation/d/1paMQ0NwQof1AVyqLQ4pM2ytp8Ro9ESfn/edit?usp=drive_link&ouid=107014397602745866323&rtpof=true&sd=true])
 
 Mentimeter poll: Initial perceptions about AI
 
