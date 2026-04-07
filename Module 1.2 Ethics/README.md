@@ -14,7 +14,7 @@ You will be introduced to real-world case studies, interdisciplinary debates, an
 
 Cath Brooksbank, Head of Training, EMBL’s European Bioinformatics Institute, UK
 
-Maria Fernanda Ribeiro Dias, Professor Universidade Federal do Rio de Janeiro / In, Brazil
+Maria Fernanda Ribeiro Dias, Professor, Universidade Federal do Rio de Janeiro, Brazil
 
 Helder Nakaya, Principal Investigator, Computational System Biology Laboratory, Universidade de São Paulo, Brazil
 
@@ -28,7 +28,7 @@ Lucia von Bredow, Ethics Lead, Bioethics, Services, European Molecular Biology L
 
 ### Secondee
 
-Maria Fernanda Ribeiro Dias, Professora visitante do PPGMCF da Universidade Federal do Rio de Janeiro, Brazil
+Maria Fernanda Ribeiro Dias, Professor, Universidade Federal do Rio de Janeiro, Brazil
 
 ## Learning outcomes
 By the end of this course, participants will be able to: 
