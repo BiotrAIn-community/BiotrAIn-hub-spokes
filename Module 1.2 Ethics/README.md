@@ -48,16 +48,13 @@ d) Summarise steps to use AI responsibly
 
 [Welcome and Introduction](https://docs.google.com/presentation/d/1CNlCbx5Vx1-mVwIEEP7hmLuMZfdcLmzU/edit?usp=drive_link&ouid=107014397602745866323&rtpof=true&sd=true)
 
-[Episode 1: Where is AI being used in biomedicine?]()
+[Episode 1: Where is AI being used in biomedicine?](https://docs.google.com/presentation/d/1paMQ0NwQof1AVyqLQ4pM2ytp8Ro9ESfn/edit?usp=drive_link&ouid=107014397602745866323&rtpof=true&sd=true)
 
-[Episode 2: Ethical challenges in the 21st Century]()
+[Episode 2: Ethical challenges in the 21st Century](https://docs.google.com/presentation/d/11Py-_j8V_tLz312dxMMqj9zBaOEnjBB8/edit?usp=drive_link&ouid=107014397602745866323&rtpof=true&sd=true)
 
-[Episode 3: Minimising the environmental impact of AI]()
+[Episode 3: The BRAIn game: ethics applied to real-life use cases (Participant notebook)](https://docs.google.com/presentation/d/1L2yH_VEgbhvXVI-epn70WVb5Uz1owov8/edit?usp=drive_link&ouid=107014397602745866323&rtpof=true&sd=true)
 
-[Episode 4: The BRAIn game: ethics applied to real-life use cases (Slides)]()
-[Episode 4: The BRAIn game: ethics applied to real-life use cases (Participant notebook)](https://docs.google.com/presentation/d/1mGKKJbU4c7kodrJb42Tp7dIXztZpMCMa/edit?usp=drive_web&ouid=104294000601634828859&rtpof=true)
-
-[Episode 5: What is responsible AI?]()
+[Episode 4: What is responsible AI?](https://docs.google.com/presentation/d/1P5IkUJcdxfj6y9DhOkQNgIpQngwO__wO/edit?usp=drive_link&ouid=107014397602745866323&rtpof=true&sd=true)
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</a>.
