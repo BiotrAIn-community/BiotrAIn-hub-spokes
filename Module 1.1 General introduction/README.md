@@ -39,10 +39,7 @@ Activities guideline: https://docs.google.com/document/d/1zlObDrkjBCFM8Ehm94nPDz
 
 ## Recording - Theoretical content
 
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
-
-
-<video src="https://youtu.be/T-D1KVIuvjA" width="320" height="240" controls></video>
+<iframe width="560" height="315" src="https://youtu.be/T-D1KVIuvjA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</a>.
