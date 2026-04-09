@@ -19,6 +19,11 @@ By the end of this course, participants will be able to:
 
 3. Build and evaluate classification models to address biological questions in the LATAM context.
 
+## Recording - Theoretical content
+Local instructors can deliver the theoretical content directly or use this recording:
+
+[Classification](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=791d8de4-b011-4f91-8e8e-b3cb0104874c)
+
 ## Materials and tutorials
 
 ### Theoretical classes and presentations
