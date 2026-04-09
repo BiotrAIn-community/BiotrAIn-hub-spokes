@@ -8,39 +8,21 @@
 
 ### Collaborators
 
-Carla Valeria Filippi, Faculty of Agronomy, University of the Republic, Uruguay
-
-Jose Arturo Molina Mora - University of Costa Rica, Co-Investigator, lead for LATAM, Costa Rica
-
-### Secondee 
-
-Daniel Céspedes Tenorio, Faculty of Myrobiology, University of Costa Rica, Costa Rica
+Alejandra Rougon, Escuela Nacional de Estudios Superiores - Unidad León, Universidad Nacional Autónoma de México, México 
 
 ## Learning outcomes
 By the end of this course, participants will be able to:
 
-1. Identify appropriate AI concepts and techniques, ethical aspects, and general usability of AI in bioscience. 
-
-2. Explore real-world applications of AI and consider how AI can enhance projects.
-
-3. Explore AI global framework, readiness and overall capabilities required to implement AI on a large scale. 
+1. Identify appropriate concepts and techniques of data pre-processing for AI analysis with applications to bioscience. 
 
 ## Recording - Theoretical content
 Local instructors can deliver the theoretical content directly or use this recording:
 
-[General concepts of AI](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=7e854b8f-dbd6-4e71-9f5f-b4030104ce93)
+[Pre-processing](LINK)
 
 ## Materials and tutorials
 
-[General introduction: BiotrAIn project](https://docs.google.com/presentation/d/1rsc6-OCrkApznHZojNTVDbPXLvPiCCAF/edit?usp=sharing&ouid=110468160338765017952&rtpof=true&sd=true)
-
-Supervised vs Unsupervided Game: https://colab.research.google.com/drive/10nmRI3clXHAZTjmMEUPkAk6t31aT1dAT?usp=sharing
-
-Presentations:
-
-General concepts of AI: https://docs.google.com/presentation/d/1rmr5TpPs8n1XI_mxNmUMen37h9-z0jym/edit?usp=sharing&ouid=103552997294835590141&rtpof=true&sd=true
-
-Activities guideline: https://docs.google.com/document/d/1zlObDrkjBCFM8Ehm94nPDzSNwXcXYIVsR4hnKHvI9eQ/edit?usp=sharing
+[Pipeline](https://colab.research.google.com/drive/1x5qa8c1NZjt_Z_ZjFMaqBKgDGsjuFKcX?ts=69d5b69a)
 
 
 ## License
