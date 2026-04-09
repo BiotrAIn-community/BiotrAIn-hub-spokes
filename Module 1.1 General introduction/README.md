@@ -25,6 +25,10 @@ By the end of this course, participants will be able to:
 
 3. Explore AI global framework, readiness and overall capabilities required to implement AI on a large scale. 
 
+## Recording - Theoretical content
+
+[General concepts of AI](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=7e854b8f-dbd6-4e71-9f5f-b4030104ce93)
+
 ## Materials and tutorials
 
 [General introduction: BiotrAIn project](https://docs.google.com/presentation/d/1rsc6-OCrkApznHZojNTVDbPXLvPiCCAF/edit?usp=sharing&ouid=110468160338765017952&rtpof=true&sd=true)
@@ -37,9 +41,6 @@ General concepts of AI: https://docs.google.com/presentation/d/1rmr5TpPs8n1XI_mx
 
 Activities guideline: https://docs.google.com/document/d/1zlObDrkjBCFM8Ehm94nPDzSNwXcXYIVsR4hnKHvI9eQ/edit?usp=sharing
 
-## Recording - Theoretical content
-
-[General concepts of AI](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=7e854b8f-dbd6-4e71-9f5f-b4030104ce93)
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</a>.
