@@ -31,6 +31,12 @@ By the end of this course, participants will be able to:
     
 5. Deliver AI contents with best teaching/learning practices in biological research.
    
+## Recording - Theoretical content
+Local instructors can deliver the theoretical content directly or use this recording:
+
+[AlphaFold](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=4272ae5a-eb2f-42da-93b9-b3fc01022a49)
+
+
 ## Materials and tutorials
 
 **Before the course:** Install and learn how to use PyMOL.
