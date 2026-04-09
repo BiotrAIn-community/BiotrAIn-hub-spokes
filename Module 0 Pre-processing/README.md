@@ -8,7 +8,8 @@
 
 ### Collaborators
 
-Alejandra Rougon, Escuela Nacional de Estudios Superiores - Unidad León, Universidad Nacional Autónoma de México, México 
+Alejandra Rougon, Escuela Nacional de Estudios Superiores - Unidad León, Universidad Nacional Autónoma de México, México
+
 Noé García, Escuela Nacional de Estudios Superiores - Unidad León, Universidad Nacional Autónoma de México, México 
 
 ## Learning outcomes
