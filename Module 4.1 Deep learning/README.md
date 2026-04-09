@@ -12,6 +12,7 @@ Tulio Campos, Oswaldo Cruz Foundation (Fiocruz), Brazil
 ### Secondee
 
 Daniel Farfán, Universidad de Guadalajara, México
+
 ## Learning outcomes
 By the end of this course, participants will be able to: 
 
@@ -28,6 +29,11 @@ By the end of this course, participants will be able to:
 - **Evaluate** deep learning models using appropriate performance metrics and analyze the results to improve model performance.
 
 - **Apply** best practices for reproducibility and interpretability in AI-driven biological research projects.
+
+## Recording - Theoretical content
+Local instructors can deliver the theoretical content directly or use this recording:
+
+[Deep Learning](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=032f52cf-f0ac-42af-ae4a-b3db011092ed)
 
    
 ## Materials and tutorials
