@@ -12,7 +12,7 @@ Jose Arturo Molina Mora - University of Costa Rica, Co-Investigator, lead for LA
 
 
 ### Secondee
-Flavio E. Spetale, PhD. Ing., CIFASIS – CONICET/UNR, Argentina 
+Flavio E. Spetale, CIFASIS – CONICET/UNR, Argentina 
 
 ## Learning outcomes
 By the end of this course, participants will be able to: 
