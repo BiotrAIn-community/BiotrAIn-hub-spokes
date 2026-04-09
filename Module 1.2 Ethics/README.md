@@ -43,7 +43,12 @@ b) Apply those concepts to specific examples of AI use in the life sciences
 c) Identify potential risks, biases, and societal consequences of AI technologies
 d) Summarise steps to use AI responsibly
 
-   
+## Recording - Theoretical content
+Local instructors can deliver the theoretical content directly or use this recording:
+
+[Ethics-AI-1](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b0110e72-b5a3-40dc-9c66-b3fe0103c4e0)
+
+
 ## Materials and tutorials
 
 [Welcome and Introduction](https://docs.google.com/presentation/d/1CNlCbx5Vx1-mVwIEEP7hmLuMZfdcLmzU/edit?usp=drive_link&ouid=107014397602745866323&rtpof=true&sd=true)
