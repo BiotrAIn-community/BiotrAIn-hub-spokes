@@ -24,7 +24,7 @@ By the end of this course, participants will be able to:
 ## Recording - Theoretical content
 Local instructors can deliver the theoretical content directly or use this recording:
 
-[Pre-processing](LINK)
+[Pre-processing](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=837c4e17-8440-4db7-8ac8-b42801078431)
 
 ## Materials and tutorials
 
