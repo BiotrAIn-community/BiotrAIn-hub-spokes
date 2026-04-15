@@ -56,15 +56,15 @@ Each case study is supported by two types of notebooks:
 using molecular descriptors from the ESOL dataset.
 <br>
 
-- [**Attendee Notebook**](https://colab.research.google.com/drive/1ftLsl-zWUGzm9P8nraOUMQ5NWnzZbifu)
-- [**Reference Notebook**](https://drive.google.com/file/d/1nWd3MmBVT9deujkys4UPTAu4pci87EtC/view?usp=drive_link)  
+- [**Attendee Notebook**](https://colab.research.google.com/drive/1TH8QVmHmIwApXZsvsBhQ7ryjSgvVnUFr?usp=drive_link)
+- [**Reference Notebook**](https://colab.research.google.com/drive/1MiRjUU-7pM_l7GGzysjlFiHLY6PMMBtZ?usp=drive_link)  
 
 
 **Case 2: Genomic Sequence Classification (DNABERT-2)**:  fine-tune a pre-trained language model for DNA sequences (DNABERT-2) to classify COVID-19 variants.
 <br>
 
-- [**Attendee Notebook**](https://drive.google.com/file/d/14FZwBxZTHFNJ3CXurkMtYOah28U07lFb/view?usp=drive_link)
-- [**Reference Notebook**](https://drive.google.com/file/d/1XKN_rQerBXynjrDnPZ62aGhS5X50TgtJ/view?usp=drive_link) 
+- [**Attendee Notebook**](https://colab.research.google.com/drive/1z6mCZsTjcwUeh74AhO_36Go4Q9ZwItaI?usp=drive_link)
+- [**Reference Notebook**](https://colab.research.google.com/drive/1Pri3mAmBP2SJ_MX6c_jTcP_32Zpex3eZ?usp=drive_link) 
 - [**Dataset**](https://drive.google.com/file/d/1NabkL2UGQaDF8DcNUtOeHTt2fjq0r2vr/view?usp=drive_link) 
 
 
