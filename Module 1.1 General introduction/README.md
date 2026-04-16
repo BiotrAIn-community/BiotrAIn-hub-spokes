@@ -34,13 +34,14 @@ Local instructors can deliver the theoretical content directly or use this recor
 
 [General introduction: BiotrAIn project](https://docs.google.com/presentation/d/1rsc6-OCrkApznHZojNTVDbPXLvPiCCAF/edit?usp=sharing&ouid=110468160338765017952&rtpof=true&sd=true)
 
-Supervised vs Unsupervided Game: https://colab.research.google.com/drive/10nmRI3clXHAZTjmMEUPkAk6t31aT1dAT?usp=sharing
+[Exploring Clustering](https://user.ceng.metu.edu.tr/~akifakkus/courses/ceng574/k-means/)
+[Exploring Classification](https://app.landing.ai/app/95253393852424/examples)
 
 Presentations:
 
-General concepts of AI: https://docs.google.com/presentation/d/1rmr5TpPs8n1XI_mxNmUMen37h9-z0jym/edit?usp=sharing&ouid=103552997294835590141&rtpof=true&sd=true
+[General concepts of AI](https://docs.google.com/presentation/d/1rmr5TpPs8n1XI_mxNmUMen37h9-z0jym/edit?usp=sharing&ouid=103552997294835590141&rtpof=true&sd=true)
 
-Activities guideline: https://docs.google.com/document/d/1zlObDrkjBCFM8Ehm94nPDzSNwXcXYIVsR4hnKHvI9eQ/edit?usp=sharing
+[Activities guideline](https://docs.google.com/document/d/1zlObDrkjBCFM8Ehm94nPDzSNwXcXYIVsR4hnKHvI9eQ/edit?usp=sharing)
 
 
 ## License
