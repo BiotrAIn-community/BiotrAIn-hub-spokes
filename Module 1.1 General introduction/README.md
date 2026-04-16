@@ -36,8 +36,10 @@ Local instructors can deliver the theoretical content directly or use this recor
 
 Time to explore concepts: 
 
+Exploring Clustering: Draw points, select clusters and adjusted with "iterations":
 [Exploring Clustering](https://user.ceng.metu.edu.tr/~akifakkus/courses/ceng574/k-means/)
 
+Exploring Clasification: After user registration, visit "Examples" and enjoy!
 [Exploring Classification](https://app.landing.ai/app/95253393852424/examples)
 
 Presentations:
