@@ -4,6 +4,13 @@
 
 ### Hub&Spokes Course: April 20-24, 2026 - Costa Rica/Argentina/Brazil/Chile/México/Colombia
 
+## Welcome and General Introduction
+
+[Welcome Video](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a93c261f-8617-46ca-9d1e-b42f00f583fc)
+
+[Welcome material: BiotrAIn project](https://docs.google.com/presentation/d/1rsc6-OCrkApznHZojNTVDbPXLvPiCCAF/edit?usp=sharing&ouid=110468160338765017952&rtpof=true&sd=true)
+
+
 ## Module #1.1: General concepts in AI 
 
 ### Collaborators
@@ -31,9 +38,6 @@ Local instructors can deliver the theoretical content directly or use this recor
 [General concepts of AI](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=7e854b8f-dbd6-4e71-9f5f-b4030104ce93)
 
 ## Materials and tutorials
-
-[General introduction: BiotrAIn project](https://docs.google.com/presentation/d/1rsc6-OCrkApznHZojNTVDbPXLvPiCCAF/edit?usp=sharing&ouid=110468160338765017952&rtpof=true&sd=true)
-
 
 [General concepts of AI](https://docs.google.com/presentation/d/1rmr5TpPs8n1XI_mxNmUMen37h9-z0jym/edit?usp=sharing&ouid=103552997294835590141&rtpof=true&sd=true)
 
