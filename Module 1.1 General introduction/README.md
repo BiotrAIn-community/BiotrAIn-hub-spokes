@@ -6,9 +6,9 @@
 
 ## Welcome and General Introduction
 
-[Welcome Video](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a93c261f-8617-46ca-9d1e-b42f00f583fc)
+[Welcome and General Introduction - Video](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a93c261f-8617-46ca-9d1e-b42f00f583fc)
 
-[Welcome material: BiotrAIn project](https://docs.google.com/presentation/d/1rsc6-OCrkApznHZojNTVDbPXLvPiCCAF/edit?usp=sharing&ouid=110468160338765017952&rtpof=true&sd=true)
+[Welcome and General Introduction - Slides](https://docs.google.com/presentation/d/1rsc6-OCrkApznHZojNTVDbPXLvPiCCAF/edit?usp=sharing&ouid=110468160338765017952&rtpof=true&sd=true)
 
 
 ## Module #1.1: General concepts in AI 
